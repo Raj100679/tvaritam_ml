@@ -1,0 +1,44 @@
+Day_Count
+Product_Calorie
+specials
+mods
+Inflation_Percentage
+Unemployment_Percentage
+Day_6
+Day_Friday
+Day_Monday
+Day_Saturday
+Day_Sunday
+Day_Thursday
+Day_Tuesday
+Day_Wednesday
+ProductName_Absolute no cheese
+ProductName_Carmalized Onions
+ProductName_Cheese Burger
+ProductName_Chicken Br
+ProductName_Chicken Brg
+ProductName_Chicken Burger
+ProductName_Chk Burger
+ProductName_Chz Burger
+ProductName_Coca-Cola
+ProductName_Coke
+ProductName_Extra Cheese
+ProductName_F Burger
+ProductName_Falafel Burger
+ProductName_Fast Please
+ProductName_Fries
+ProductName_NO TOMATOES
+ProductName_No Chz
+ProductName_No Lettuce
+ProductName_No Tom Plz
+ProductName_V. Burger
+ProductName_VBurger
+ProductName_Veg Burger
+ProductName_Veggie Burger
+ProductName_X-CHeese
+weather_cold
+weather_hot
+weather_humid
+weather_rainy
+weather_very cold
+weather_very hot
